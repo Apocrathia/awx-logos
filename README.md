@@ -1,3 +1,7 @@
+# *DISCLAIMER*
+
+These files are [freely available](https://tower-mockups.testing.ansible.com/examples/branding/branding-tower/) but remain as property of Red Hat. I simply don't like the AWX logo.
+
 # awx-logos
 
 This repo contains branding assets for the [AWX project](https://github.com/ansible/awx). You may use these assets provided you agree to, and strictly adhere to, our [trademark guidelines](./TRADEMARKS.md). 
